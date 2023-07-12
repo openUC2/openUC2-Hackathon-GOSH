@@ -9,7 +9,35 @@ Welcome to the openUC2 GOSH Hackathon! This hackathon is dedicated to pushing th
 - **Location**: Lichtwerkstatt, Jena
 - **Duration**: Until 13:00 the next day
 
+### DISCORD Channel
+https://discord.com/invite/yU6sdgXY
+
+### ZOOM 
+
+Topic: UC2 Hackathon
+Time: 14.Juli 2023 12:00 PM Amsterdam, Berlin, Rom, Stockholm, Wien
+https://uni-jena-de.zoom.us/j/65995365383
+Meeting-ID: 659 9536 5383
+Kenncode: hackUC2
+(**GO TO THE DISCORD CHANNEL IF NOBODY WILL LET YOU IN**
+
+### More Information
 A more detailed email with additional information, including what to bring and important links, will be sent to you in the next few days. In addition, we will set up a dedicated GitHub page with the latest updates. Stay tuned for further instructions!
+
+Please ensure: The meeting starts **AFTER LUNCH**
+
+**Helpful information:**
+It's very helpful to bring the following items to maintain energy ⚡
+
+- sleeping mattress/Isomatte
+- Energy drinks / coffee / jelly bears / something that keeps you awake 
+- Laptop
+- Some snacks just in case
+- Your modules if you have any
+- Your scrap-heap optics/electronics you wanted to integrated into UC2 for a long time
+- Optional: Install Autodesk Inventor 2022 (student edition)
+
+
 
 ## Hackathon Projects
 
