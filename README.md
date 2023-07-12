@@ -12,7 +12,7 @@ Welcome to the openUC2 GOSH Hackathon! This hackathon is dedicated to pushing th
 ### DISCORD Channel
 https://discord.com/invite/yU6sdgXY
 
-### ZOOM 
+### ZOOM
 
 Topic: UC2 Hackathon
 Time: 14.Juli 2023 12:00 PM Amsterdam, Berlin, Rom, Stockholm, Wien
@@ -30,7 +30,7 @@ Please ensure: The meeting starts **AFTER LUNCH**
 It's very helpful to bring the following items to maintain energy ⚡
 
 - sleeping mattress/Isomatte
-- Energy drinks / coffee / jelly bears / something that keeps you awake 
+- Energy drinks / coffee / jelly bears / something that keeps you awake
 - Laptop
 - Some snacks just in case
 - Your modules if you have any
@@ -41,6 +41,8 @@ It's very helpful to bring the following items to maintain energy ⚡
 
 ## Hackathon Projects
 
+![](./IMAGES/collection.png)
+  
 We have selected some exciting projects that we will be working on during the hackathon:
 
 1. **BluFocus** - A bluray player-based autofocusing system for microscopes. Check out the project repository [here](https://github.com/openUC2/openUC2-Hackathon-BluFocus).
