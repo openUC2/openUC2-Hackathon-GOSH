@@ -21,7 +21,7 @@ Meeting-ID: 659 9536 5383
 Kenncode: hackUC2
 (**GO TO THE DISCORD CHANNEL IF NOBODY WILL LET YOU IN**
 
-### More Information
+### ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️ More very important Information ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 A more detailed email with additional information, including what to bring and important links, will be sent to you in the next few days. In addition, we will set up a dedicated GitHub page with the latest updates. Stay tuned for further instructions!
 
 Please ensure: The meeting starts **AFTER LUNCH**
